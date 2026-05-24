@@ -1,0 +1,36 @@
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Uploads and outputs (don't commit user data)
+uploads/
+outputs/
+
+# Runtime feedback / session logs (may contain user text)
+data/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Whisper models cache
+*.pt
