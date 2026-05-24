@@ -177,7 +177,7 @@ Why this stack? Small hand-labeled dataset, interpretable coefficients, sub-mill
 
 | Name | GitHub | Role |
 |---|---|---|
-| Sahil | [@sahils38](https://github.com/sahils38) | Repo owner, full-stack |
+| Sahil | [@sahils38](https://github.com/sahils38) | Full-stack |
 | Neil Maurya | [@NeilMaurya](https://github.com/NeilMaurya) | Full-stack |
 | Dhruv | [@dhruv6809](https://github.com/dhruv6809) | Full-stack |
 
