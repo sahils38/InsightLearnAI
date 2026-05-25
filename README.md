@@ -2,7 +2,7 @@
 
 > Drop in a lecture, walk away with notes you can actually study from.
 
-InsightLearnAI turns any video lecture into a complete study pack — full notes, a voice summary you can listen to on the commute, and a 10-question quiz — and then **measures how effectively the session actually worked** using a small ML model trained from scratch.
+InsightLearnAI turns any video lecture into a complete study pack, full notes, a voice summary you can listen to on the commute, and a 10-question quiz, and then **measures how effectively the session actually worked** using a small ML model trained from scratch.
 
 ---
 
